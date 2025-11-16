@@ -35,6 +35,3 @@ Visualize monthly performance for trend analysis.
 Provide a gender-wise and category-wise revenue breakdown.
 Understand customer age influence on product purchases.
 Compare median profit across subcategories for better pricing/stock decisions.
-
-
-Dashboard screenshot
